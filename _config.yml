@@ -1,11 +1,6 @@
 title:       "Operating Systems 2021-1 (OS211)"
 copyright:   "2021-2021"
-description: >- 
-  This Is How Me Do It!
-  This Is How Me Do It!
-# baseurl: "" # e.g. /blog
-# url: ""     # e.g. http://example.com
-google_analytics: "UA-89852122-6"
+description: "Hey there! I am using GitHub."
 author:           "James Frederix Rolianto"
 address:          "Depok"
 sitemap:          "true"
@@ -13,7 +8,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 urlweb:           "https://sinuscosinustangen.github.io/os211/"
-urlcontact:       "TBS"
 urlgithub:        "https://github.com/SinusCosinusTangen/os211/"
 urlghpage:        "https://sinuscosinustangen.github.io/os211/"
 keywords:         "jekyll, testing"
