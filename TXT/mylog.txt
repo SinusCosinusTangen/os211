@@ -9,3 +9,8 @@ ZCZC W00  15 L05 GSGS related
 ZCZC W00   2 L01 SCELE related
 ZCZC W00   2 L03 GitHub related
 ZCZC W00 120 L08 Trying something
+ZCZC W01 110 L02 ZOOM related
+ZCZC W01  60 L02 ZOOM related
+ZCZC W01  20 L04 GitHub Pages: ATM
+ZCZC w01 240 L11 Assignment #1
+ZCZC W01  30 L12 Assignment #2
