@@ -4,18 +4,14 @@
  "Mike Dane", "w3schools", et al.
  */
 
-.backclass {
-  background-image:url(/assets/images/default.png)
-}
-
 .plainclass {
   color:            white;
   background-color: #001030;
 }
 
 .plainclass1 {
-  color:            white;
-  background-color: black;
+  color:            black;
+  background-color: white;
 }
 
 .container {
