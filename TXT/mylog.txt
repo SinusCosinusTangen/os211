@@ -14,3 +14,5 @@ ZCZC W01  60 L02 ZOOM related
 ZCZC W01  20 L04 GitHub Pages: ATM
 ZCZC w01 240 L11 Assignment #1
 ZCZC W01  30 L12 Assignment #2
+ZCZC W01  30 L99 Set up ssh keygen and putty for kawung
+ZCZC W01  20 L08 Trying to connect to kawung via powershell, putty and debian
