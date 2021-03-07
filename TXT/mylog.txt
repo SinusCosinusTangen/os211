@@ -19,5 +19,7 @@ ZCZC W01  20 L14 Assignment #4
 ZCZC W01  15 L15 Assignment #5
 ZCZC W01   5 L16 Assignment #6
 ZCZC W01  30 L17 Assignment #7
-ZCZC W01  30 L99 Set up ssh keygen and putty for kawung
+ZCZC W01 143 L18 Assignment #8
+ZCZC W01  30 L99 Try to set up ssh keygen and putty for kawung
 ZCZC W01  20 L08 Trying to connect to kawung via powershell, putty and debian
+ZCZC W01  20 L01 Checking for Pop Quiz, Announcement and General Discussion at Scele
