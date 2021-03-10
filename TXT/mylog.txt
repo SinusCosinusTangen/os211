@@ -31,3 +31,15 @@ ZCZC W01  20 L01 Checking for Pop Quiz, Announcement and General Discussion at S
 #Week02
 ZCZC W02  60 L11 Assignment #1
 ZCZC W02   5 L12 Assignment #2
+ZCZC W02  10 L13 Assignment #3
+ZCZC W02   2 L14 Assignment #4
+ZCZC W02   2 L15 Assignment #5
+ZCZC W02  30 L16 Assignment #6
+ZCZC W02 237 L17 Assignment #7
+ZCZC W02   8 L18 Assignment #8
+ZCZC W02   7 L19 Assignment #9
+ZCZC W02   4 L20 Assignment #10
+ZCZC W02 113 L05 GSGS related: GSGS about Security
+ZCZC W02  80 L02 ZOOM related: W02 zoom meeting on monday 10am
+ZCZC W02  30 L01 SCELE related: Quiz W02
+ZCZC W02   5 L99 Trying something: Try to enter badak via kawung
