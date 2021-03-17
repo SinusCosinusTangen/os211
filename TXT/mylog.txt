@@ -37,3 +37,10 @@ ZCZC W02 113 L05 GSGS related: GSGS about Security
 ZCZC W02  80 L02 ZOOM related: W02 zoom meeting on monday 10am
 ZCZC W02  30 L01 SCELE related: Quiz W02
 ZCZC W02   5 L99 Trying something: Try to enter badak via kawung
+ZCZC W03  71 L11 Assignment #1
+ZCZC W03  30 L12 Assignment #2
+ZCZC W03   2 L13 Assignment #3
+ZCZC W03  40 L14 Assignment #4
+ZCZC W03   3 L16 Assignment #6
+ZCZC W03  46 L17 Assignment #7
+ZCZC W03   4 L18 Assignment #8
