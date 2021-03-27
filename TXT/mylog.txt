@@ -51,3 +51,4 @@ ZCZC W03 100 L02 ZOOM related: W03 zoom meeting on wednesday 10am
 ZCZC W03  37 L99 Trying something: Trying to make, encrypt a tarball and Fuse DEMO
 ZCZC W03   2 L22 YouTube: watching What is NVRAM?
 ZCZC W03  30 L23 Discord: Quiz
+ZCZC W04 105 L02 ZOOM related: W04 zoom meeting on wednesday 10am
