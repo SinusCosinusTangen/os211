@@ -8,6 +8,11 @@ section {
   border: solid 2px midnightblue;
 }
 
+::hover {
+  font: bold;
+  color: midnightblue;
+}
+
 hr {
   color: midnightblue;
   background-color: midnightblue;
