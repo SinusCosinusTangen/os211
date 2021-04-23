@@ -8,8 +8,8 @@ section {
   border: solid 2px midnightblue;
 }
 
-a::hover {
-  font: bold;
+a:hover {
+  font-weight: 700;
   color: midnightblue;
 }
 
