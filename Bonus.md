@@ -18,4 +18,4 @@ permalink: /bonus/
 12. Jangan jalan pincang.
 13. Jangan merangkak.
 
-Sumber: [https://www.youtube.com/watch?v=68h8-ESTY6o](https://www.youtube.com/watch?v=68h8-ESTY6o) Menit ke '1:38'
+Sumber: [https://youtu.be/68h8-ESTY6o?t=98](https://youtu.be/68h8-ESTY6o?t=98)
